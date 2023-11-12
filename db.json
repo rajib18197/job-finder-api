@@ -1,0 +1,53 @@
+{
+  "jobs": [
+    {
+      "title": "junior-executive",
+      "type": "internship",
+      "salary": 34449,
+      "deadline": "2024-12-12",
+      "id": 2
+    },
+    {
+      "title": "MERN Stack Developer",
+      "type": "Internship",
+      "salary": 80000,
+      "deadline": "2023-12-31",
+      "id": 3
+    },
+    {
+      "title": "Product Manager",
+      "type": "Full Time",
+      "salary": "18000",
+      "deadline": "2023-12-31",
+      "id": 4
+    },
+    {
+      "title": "Social Media Manager",
+      "type": "Internship",
+      "salary": "20000",
+      "deadline": "2023-11-30",
+      "id": 5
+    },
+    {
+      "title": "Android App Developer",
+      "type": "Remote",
+      "salary": "35000",
+      "deadline": "2023-12-31",
+      "id": 6
+    },
+    {
+      "title": "Frontend Developer",
+      "type": "Internship",
+      "salary": "18000",
+      "deadline": "2023-12-31",
+      "id": 7
+    },
+    {
+      "title": "full-stack-developer",
+      "type": "full time",
+      "salary": 59910,
+      "deadline": "2023-11-22",
+      "id": 9
+    }
+  ]
+}
